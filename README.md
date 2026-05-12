@@ -37,7 +37,8 @@ The goal is not just accuracy — but **high recall on Regulated Drugs**, minimi
 
 ---
 ## Live Demo
-
+ github link :-https://github.com/yugalrade19/PRIS--Pharmaceutical-Regulatory-Intelligence-System
+ liveapp link : https://pris--pharmaceutical-regulatory-intelligence-system-fcdbofskuw.streamlit.app/
 
 
 
